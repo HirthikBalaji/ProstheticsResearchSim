@@ -5,7 +5,7 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   // Replace '<REPO_NAME>' with your actual GitHub repository name
-  base: 'AI-prosthetic-research-simulator',
+  base: '/ProstheticsResearchSim/',
   plugins: [react()],
   // ...other configurations
 })
